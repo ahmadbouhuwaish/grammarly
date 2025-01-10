@@ -25,7 +25,7 @@
     "writing assistant",
     "writing"
   ],
-  "activationEvents": [
+  "activationEvents": [onLanguage:<english>
     "onCommand:grammarly.check",
     "onCommand:grammarly.login",
     "onCommand:grammarly.logout",
